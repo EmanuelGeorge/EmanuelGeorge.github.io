@@ -64,11 +64,11 @@ var imageUrls   = ['url("images/1.jpg")','url("images/2.jpg")', 'url("images/3.j
                      'url("images/249.jpg")','url("images/250.jpg")', 'url("images/251.jpg")', 'url("images/252.jpg")',
 					 'url("images/253.jpg")', 'url("images/254.jpg")', 'url("images/255.jpg")', 'url("images/256.jpg")',
 					 'url("images/257.jpg")', 'url("images/258.jpg")', 'url("images/259.jpg")', 'url("images/260.jpg")',
-					 'url("images/261.jpg")','url("images/262.jpg")', 'url("images/263.jpg")', 'url("images/264.jpg")',
+					 'url("images/261.jpg")', 'url("images/262.jpg")', 'url("images/263.jpg")', 'url("images/264.jpg")',
                      'url("images/265.jpg")', 'url("images/266.jpg")', 'url("images/267.jpg")', 'url("images/268.jpg")',
-                     'url("images/269.jpg")','url("images/270.jpg")','url("images/271.jpg")','url("images/272.jpg")',
-					 'url("images/273.jpg")','url("images/274.jpg")','url("images/275.jpg")','url("images/276.jpg")',
-					 'url("images/277.jpg")','url("images/278.jpg")']
+                     'url("images/269.jpg")', 'url("images/270.jpg")', 'url("images/271.jpg")', 'url("images/272.jpg")',
+					 'url("images/273.jpg")', 'url("images/274.jpg")','url("images/275.jpg")', 'url("images/276.jpg")',
+					 'url("images/277.jpg")', 'url("images/278.jpg")']
 
 
 
